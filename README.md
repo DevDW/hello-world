@@ -1,2 +1,7 @@
 # hello-world
-First GitHub repository
+
+function repositoryNote () {
+  console.log("Exploring GitHub!");
+}
+
+repositoryNote();
